@@ -1,0 +1,12 @@
+{
+
+    "name": "Vue Component",
+    "variables": [
+      {
+        "name": "ComponentName",
+        "style": {
+          "case": "auto"
+        }
+      }
+    ]
+}

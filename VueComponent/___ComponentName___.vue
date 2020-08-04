@@ -1,0 +1,40 @@
+<!--
+  ___ComponentName___
+  Usage:
+    <template>
+      <div><___ComponentName___/></div>
+    </template>
+
+    <script>
+    import ___ComponentName___ from './path-to/___ComponentName___'
+    export default {
+      components: {
+        ___ComponentName___
+      }
+    }
+    </script>
+-->
+<template>
+  <div>
+    ___ComponentName___
+  </div>
+</template>
+
+<script>
+// Imports
+
+// Component
+export default {
+  name: '___ComponentName___',
+  // props: {},
+  data: function () {
+    return { }
+  },
+  // computed: {},
+  // methods: {},
+}
+</script>
+
+<style scoped>
+
+</style>
