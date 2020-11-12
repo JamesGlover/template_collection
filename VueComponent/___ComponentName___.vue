@@ -24,6 +24,8 @@
 // Imports
 
 // Component
+// See https://vuejs.org/v2/style-guide/#Component-instance-options-order-recommended
+// for order of other options
 export default {
   name: '___ComponentName___',
   // props: {},

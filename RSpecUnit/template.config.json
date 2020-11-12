@@ -1,0 +1,12 @@
+{
+
+    "name": "RSpec Unit",
+    "variables": [
+      {
+        "name": "ClassName",
+        "style": {
+          "case": "auto"
+        }
+      }
+    ]
+}
